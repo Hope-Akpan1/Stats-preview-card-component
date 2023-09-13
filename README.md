@@ -22,7 +22,7 @@ My approach to this challenge.
 ### Links
 
 - Solution URL: (https://github.com/Hope-Akpan1/Stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://hope-akpan1.github.io/Stats-preview-card-component/)
 
 ## My process
 I used my phone to code.
