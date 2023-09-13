@@ -29,7 +29,7 @@ body {
   border-start-start-radius: 8px;
   border-start-end-radius: 8px;
   display: block;
-  background-image: linear-gradient(0deg, rgba(146, 46, 209,.5), rgba(146, 46, 209,.5)), url('images/image-header-mobile.jpg');
+  background-image: linear-gradient(0deg, rgba(146, 46, 209,.5), rgba(146, 46, 209,.5)), url('image-header-mobile.jpg');
 
   overflow: hidden;
   width: 320px;
@@ -134,7 +134,7 @@ num {
     border-start-end-radius: 0;
     position: relative;
     overflow: hidden;
-    background-image: linear-gradient(0deg, rgba(146, 46, 209, 0.5), rgba(146, 46, 209, 0.5)), url('/images/image-header-desktop.jpg');
+    background-image: linear-gradient(0deg, rgba(146, 46, 209, 0.5), rgba(146, 46, 209, 0.5)), url('image-header-desktop.jpg');
     background-size: cover;
   }
 
