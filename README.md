@@ -29,7 +29,7 @@ I used my phone to code.
 
 ### Built with
 
-- SPCK app gor mobile
+- SPCK app for mobile
 - HTML5 markup
 - CSS custom properties
 - Flexbox
